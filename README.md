@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 The image below shows the start of the game. 
 
-<img src=" GameStart.png" />
+<img src="GameStart.png" />
 
 The image below shows the cards staying flipped, onced matched. 
 
